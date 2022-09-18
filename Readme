@@ -1,0 +1,3 @@
+Run CMD "docker build -t notable_app ."
+Run CMD "docker run -p 8080:80 notable_app"
+Go to address "http://localhost:8080/dash/" in your web browser
